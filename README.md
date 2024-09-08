@@ -9,7 +9,7 @@ This project consists of two modules. One is a graphical user interface module w
 - Usage
 <br/>
 step1 select a body image from Model Page.
-![Image text](https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/model_page1.png)
+![Image text](readme_images/model_page1.png)
 step2
 
 
