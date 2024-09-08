@@ -4,9 +4,15 @@ While browsing the github website, I came across the code of the paper,["Dressin
 ## Functions and Usage
 This project consists of two modules. One is a graphical user interface module which was developed in C++ language based on Qt6 creator, which is my main contribution. The other is an image generation module, which is [the code](https://github.com/cuiaiyu/dressing-in-order) written by the original authors.
 - Functions
-  The DNN model developed by the original author contains many functions, such as pose transfer, try on, texture transfer, reshaping, content removal, etc.
+<br/>The DNN model developed by the original author contains many functions, such as pose transfer, try on, texture transfer, reshaping, content removal, etc. Due to time constraints, the PC client only implemented the try-on function.
 
-2、软件的主要功能介绍
+- Usage
+<br/>
+step1 select a body image from Model Page.
+![image](https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/model_page1.png)
+step2
+
+
 3、软件使用步骤
 
 ## Enviroment setup
