@@ -9,7 +9,8 @@ This project consists of two modules. One is a graphical user interface module w
 - Usage
 <br/>
 step1 select a body image from Model Page.
-![Image text](readme_images/model_page1.png)
+<br/>
+![](readme_images/model_page1.png)
 step2
 
 
