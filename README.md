@@ -6,13 +6,26 @@ This project consists of two modules. One is a graphical user interface module w
 - Functions
 
 The DNN model developed by the original author contains many functions, such as pose transfer, try on, texture transfer, reshaping, content removal, etc. Due to time constraints, the PC client only implemented the try-on function.
+
 - Usage
-step1 select a body image from Model Page.
-![image](https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/model_page1.png)
-step2
 
+Step1:  select a body image from Model Page.
+<table><tr>
+  <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step1_1.png" /></td>
+  <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step1_2.jpg" /></td>
+</tr></table>
 
-3、软件使用步骤
+Step2: select one top and one bottom from Garment Page images. Then press the \<tryon\> button at the bottom of the page.
+<table><tr>
+  <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step2_1.png" /></td>
+  <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step2_2.png" /></td>
+</tr></table>
+
+Step3: You can tuck the top into the bottom by checking the Tuck checkbox at the bottom of the page.
+<table><tr>
+  <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step3_1.png" /></td>
+  <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step3_2.png" /></td>
+</tr></table>
 
 ## Enviroment setup
 1、C++环境配置，配置文件的修改
