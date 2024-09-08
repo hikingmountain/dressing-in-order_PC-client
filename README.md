@@ -1,13 +1,11 @@
 ## Introduction
 While browsing the github website, I came across the code of the paper,"Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing" and found its functions very useful, especially the try-on function. Nowadays, online shopping is very popular. When customers are shopping clothes online, they need a tool to try on the clothes they like. I think the dressing-in-order PC-client can meet their needs.
 
-1、做这个项目的动机
-2、这个项目主要面向什么用户
-
 ## Functions and Usage
-This project based on QT6.3 IDE is mainly developed in C++ language.
+This project consists of two modules. One is a graphical user interface module which was developed in C++ language based on Qt6 creator, which is my main contribution. The other is an image generation module, which is <a href="https://github.com/cuiaiyu/dressing-in-order" target="_blank">the code</a> written by the original authors.
 
-1、这个项目是用什么工具、什么语言开发。项目代码包括哪两部分。
+### Functions
+
 2、软件的主要功能介绍
 3、软件使用步骤
 
