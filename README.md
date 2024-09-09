@@ -38,9 +38,13 @@ Step3: You can tuck the top into the bottom by checking the \<Tuck\> checkbox at
   torchvision==0.18.0 <br/>
   tensorboardX==2.6.2 <br/>
   scikit-image==0.24.0
-- Modify configForCpp.json as follow
+- Modify configForCpp.json
   
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/configForCpp.png" width="60%" />
+
+- Modify CMakeLists.txt
+
+  <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/cmakelists.png" width="60%" />
 
 ## Acknowledgements
 If you find this work is helpful, please consider starring 🌟 this repository. <br/>
