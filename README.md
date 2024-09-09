@@ -16,7 +16,7 @@ Step1:  select a body image from Model Page.
   <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step1_2.jpg" /></td>
 </tr></table>
 
-Step2: select one top and one bottom from images of Garment Page. Then press the \<tryon\> button at the bottom of the page.
+Step2: select one top and one bottom from the images of Garment Page. Then press the \<tryon\> button at the bottom of the page.
 <table><tr>
   <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step2_1.png" /></td>
   <td><img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/step2_2.png" /></td>
