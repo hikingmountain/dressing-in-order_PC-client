@@ -42,9 +42,15 @@ Step3: You can tuck the top into the bottom by checking the \<Tuck\> checkbox at
   
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/configForCpp.png" width="60%" />
 
+- Copy configForCpp.json to the path in which the executable file is located  under \<build\> directory
+
 - Change \<include\> path and \<lib\> path in CMakeLists.txt to your local path
 
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/cmakelists.png" width="60%" />
+
+- Change python library name in target_link_libraries to your python library name.
+
+  <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/cmakelists2.png" width="60%" />
 
 - Download pretrained weight(DIOR_64.zip) from [google net-disk of the original authors](https://drive.google.com/drive/folders/1-7DxUvcrC3cvQV67Z2QhRdi-9PMDC8w9)
 
