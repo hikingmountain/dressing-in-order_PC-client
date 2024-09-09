@@ -38,15 +38,15 @@ Step3: You can tuck the top into the bottom by checking the \<Tuck\> checkbox at
   torchvision==0.18.0 <br/>
   tensorboardX==2.6.2 <br/>
   scikit-image==0.24.0
-- Modify configForCpp.json
+- Change the three paths in configForCpp.json to your local path
   
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/configForCpp.png" width="60%" />
 
-- Modify CMakeLists.txt
+- Change \<include\> path and \<lib\> path in CMakeLists.txt to your local path
 
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/cmakelists.png" width="60%" />
 
-- Download pretrained weight(DIOR_64.zip) from [google netdisk of the original authors](https://drive.google.com/drive/folders/1-7DxUvcrC3cvQV67Z2QhRdi-9PMDC8w9)
+- Download pretrained weight(DIOR_64.zip) from [google net-disk of the original authors](https://drive.google.com/drive/folders/1-7DxUvcrC3cvQV67Z2QhRdi-9PMDC8w9)
 
   Unzip DIOR_64.zip to dress-in-order/checkpoints. If you unzip it to different path, please modify the configForPython.json file under dress-in-order directory.
   
