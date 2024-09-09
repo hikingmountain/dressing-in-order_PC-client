@@ -1,0 +1,5 @@
+{
+  "python_script_path": "Path to <dress-in-order> directory",
+  "model_img_path": "Path to <model> directory under <dress-in-order/data> directory",
+  "garment_img_path": "Path to <test> directory under <dress-in-order/data> directory"
+}

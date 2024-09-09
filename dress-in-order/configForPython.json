@@ -1,0 +1,12 @@
+{
+  "dataroot": "data",
+  "exp_name": "DIOR_64",
+  "epoch": "latest",
+  "netG": "dior",
+  "ngf": 64,
+  "vgg_path": "checkpoints/vgg19-dcbb9e9d.pth",
+  
+  "flownet_path": "checkpoints/DIOR_64/latest_net_Flow.pth",
+  
+  "checkpoints_dir": "checkpoints"
+}
