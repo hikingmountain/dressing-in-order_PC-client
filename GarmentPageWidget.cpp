@@ -4,7 +4,7 @@
 #include "SingleImageItem.h"
 
 GarmentPageWidget::GarmentPageWidget(const QString& imgPath, QWidget *parent)
-    : QScrollArea{parent}, m_imgPath(imgPath)
+    : QScrollArea(parent), m_imgPath(imgPath)
 {
     m_widget = new QWidget;
     m_widget->setSizePolicy(QSizePolicy(QSizePolicy::Expanding, QSizePolicy::Expanding));

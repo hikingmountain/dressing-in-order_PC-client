@@ -5,7 +5,7 @@
 
 
 ModelPageWidget::ModelPageWidget(const QString& imgDir, QWidget *parent)
-    : QScrollArea{parent}, m_imgDir(imgDir)
+    : QScrollArea(parent), m_imgDir(imgDir)
 {
     m_currentItemIdx = 0;
     m_widget = new QWidget;

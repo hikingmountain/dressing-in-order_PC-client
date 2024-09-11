@@ -22,7 +22,6 @@ private slots:
 
 private:
     QWidget* m_widget;
-    QScrollArea* m_scrollArea;
     QGridLayout* m_layout;
     const QString& m_imgDir;
 
