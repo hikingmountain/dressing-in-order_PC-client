@@ -64,11 +64,9 @@ Step3: You can tuck the top into the bottom by checking the \<Tuck\> checkbox at
 
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/configForPython_vgg.png" width="60%" />
 
-
 ## Acknowledgements
-If you find this work is helpful, please consider starring 🌟 this repository. <br/>
-This repository is built up on [dress-in-order developed by the original authors](https://github.com/cuiaiyu/dressing-in-order). Thanks a lot for the great work to the authors.<br/>
-Welcome to cite their paper!
+This repository is built up on [dress-in-order developed by the original authors](https://github.com/cuiaiyu/dressing-in-order). 
+Thanks a lot for the great work to the authors. Welcome to cite their paper!
 
 ## Citation
 
