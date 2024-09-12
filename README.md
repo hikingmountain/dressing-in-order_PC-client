@@ -52,14 +52,15 @@ Step3: You can tuck the top into the bottom by checking the \<Tuck\> checkbox at
 
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/cmakelists2.png" width="60%" />
 
-- Download pretrained weight(DIOR_64.zip) from [google net-disk of the original authors](https://drive.google.com/drive/folders/1-7DxUvcrC3cvQV67Z2QhRdi-9PMDC8w9)
+- Download pretrained weight(DIOR_64.zip) from [here](https://drive.google.com/drive/folders/1-7DxUvcrC3cvQV67Z2QhRdi-9PMDC8w9).
 
-  Unzip DIOR_64.zip to dress-in-order/checkpoints. If you unzip it to different path, please modify the configForPython.json file under dress-in-order directory.
+  Then, unzip DIOR_64.zip to dress-in-order/checkpoints. If you unzip it to different path, please modify the configForPython.json file under dress-in-order directory.
   
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/configForPython_dior.png" width="60%" />
 
-- Download vgg-19 model for pytorch from [here](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth)
-  Copy it to dress-in-order/checkpoints directory. If you copy it to different path, please modify the configForPython.json file under dress-in-order directory.
+- Download vgg-19 model for pytorch from [here](https://download.pytorch.org/models/vgg19-dcbb9e9d.pth).
+
+  Then, copy it to dress-in-order/checkpoints directory. If you copy it to different path, please modify the configForPython.json file under dress-in-order directory.
 
   <img src="https://github.com/hikingmountain/dressing-in-order_PC-client/blob/main/readme_images/configForPython_vgg.png" width="60%" />
 
