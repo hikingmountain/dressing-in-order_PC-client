@@ -66,10 +66,10 @@ Step3: You can tuck the top into the bottom by checking the \<Tuck\> checkbox at
 
 ## Acknowledgements
 This repository is built up on [dress-in-order developed by the original authors](https://github.com/cuiaiyu/dressing-in-order). 
-Thanks a lot for the great work to the authors. Welcome to cite their paper!
+Thanks a lot for the great work to the authors. 
 
 ## Citation
-
+Welcome to cite their paper!
 ```
 @InProceedings{Cui_2021_ICCV,
     author    = {Cui, Aiyu and McKee, Daniel and Lazebnik, Svetlana},
