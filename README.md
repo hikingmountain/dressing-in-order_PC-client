@@ -3,7 +3,7 @@ While browsing the github website, I came across the code of the paper,["Dressin
 Nowadays, online shopping is very popular. When customers buy clothes online, they need a tool to try on the clothes they like. I think this dressing-in-order PC-client can meet their needs.
 
 ## Functions and Usage
-This project consists of two modules. One is a graphical user interface module which was developed in C++ language based on Qt6 creator. This is my main contribution. The other is an image generation module, which is [the code](https://github.com/cuiaiyu/dressing-in-order) written by the original authors.
+This project consists of two modules. One is a graphical user interface module which was developed in C++ language based on Qt6 creator. It is my main contribution. The other is an image generation module, which is [the code](https://github.com/cuiaiyu/dressing-in-order) written by the original authors.
 - Functions
 
 The DNN model developed by the original author contains many functions, such as pose transfer, try on, texture transfer, reshaping, content removal, etc. Due to time constraints, the PC client only implemented the try-on function.
